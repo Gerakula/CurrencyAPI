@@ -1,0 +1,16 @@
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\bin\Debug\net7.0-windows\CurrencyAPI.exe
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\bin\Debug\net7.0-windows\CurrencyAPI.deps.json
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\bin\Debug\net7.0-windows\CurrencyAPI.runtimeconfig.json
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\bin\Debug\net7.0-windows\CurrencyAPI.dll
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\bin\Debug\net7.0-windows\CurrencyAPI.pdb
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.Form1.resources
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.csproj.GenerateResource.cache
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.AssemblyInfoInputs.cache
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.AssemblyInfo.cs
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.csproj.CoreCompileInputs.cache
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.dll
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\refint\CurrencyAPI.dll
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.pdb
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\CurrencyAPI.genruntimeconfig.cache
+D:\development\CurrencyAPI\CurrencyAPI\CurrencyAPI\obj\Debug\net7.0-windows\ref\CurrencyAPI.dll
